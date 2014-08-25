@@ -6,6 +6,6 @@ package com.rmj.patterns.simple_factory.device;
 public class Device_VESD extends Device {
     @Override
     public void process() {
-        System.out.printf("Device VESD process");
+        System.out.println("Device VESD process");
     }
 }

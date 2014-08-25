@@ -6,6 +6,6 @@ package com.rmj.patterns.simple_factory.device;
 public class Device_50EW extends Device{
     @Override
     public void process() {
-        System.out.printf("Device 50EW process");
+        System.out.println("Device 50EW process");
     }
 }
